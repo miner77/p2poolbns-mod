@@ -3,6 +3,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <math.h>
+#include <pyconfig.h>
 
 int static generateMTRandom(unsigned int s, int range)
 {
